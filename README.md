@@ -1,4 +1,14 @@
-# parfume
+<a href="https://www.buymeacoffee.com/evara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+# Parfume - Flutter UI design
+# design by https://dribbble.com/shots/15091913-Parfume-Apps-Exploration/attachments/6823165?mode=media:
+# screenshots:
+#welcome screen
+![welcome screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/start.png)
+#home screen
+![home screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/home.png)
+#details screen
+![details screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/details.png)
+
 
 A new Flutter project.
 
