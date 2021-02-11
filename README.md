@@ -4,11 +4,14 @@
 ![design](https://cdn.dribbble.com/users/6843587/screenshots/15091913/media/e3a3c3f8507d900acd0e8701286ad2a2.png)
 # screenshots:
 #welcome screen
-![welcome screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/start.jpg)
+![welcome screen
+](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/start.jpg)
 #home screen
-![home screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/home.jpg)
+![home screen
+](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/home.jpg)
 #details screen
-![details screen](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/details.jpg)
+![details screen
+](https://github.com/iamEvara/Flutter-Parfume-App-UI/raw/main/assets/details.jpg)
 
 
 A new Flutter project.
